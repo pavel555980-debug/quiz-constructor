@@ -1,0 +1,10 @@
+img{
+    width: 300px;
+}
+
+.fontSelectorMenu{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
